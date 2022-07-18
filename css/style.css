@@ -8825,7 +8825,7 @@ h1, h2, h3, h4, h5,
     letter-spacing: 3px;
     text-transform: uppercase; }
 
-.services-1 {
+/* .services-1 {
   margin-bottom: 40px;
   padding: 2em;
   background: rgba(255, 255, 255, 0.1);
@@ -8877,7 +8877,7 @@ h1, h2, h3, h4, h5,
     .services-1:hover h3 {
       color: #000000; }
       .services-1:hover h3:after {
-        background: #000000; }
+        background: #000000; } */
 
 .progress-wrap {
   width: 100%;
@@ -8944,7 +8944,7 @@ h1, h2, h3, h4, h5,
     margin-top: -70px;
     padding-top: 10em !important; } }
 
-.project {
+/* .project {
   width: 100%;
   height: 285px;
   margin-bottom: 30px;
@@ -9017,7 +9017,7 @@ h1, h2, h3, h4, h5,
   .project:hover .overlay, .project:focus .overlay {
     opacity: .9; }
   .project:hover .text, .project:focus .text {
-    opacity: 1; }
+    opacity: 1; } */
 
 .aside-stretch {
   background: #ffce6c; }
